@@ -1,6 +1,7 @@
 # Repository reader with React
 
 A simple page where you can add a repository and see links to issues (open/closed/all).
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Features
