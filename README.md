@@ -1,7 +1,6 @@
 # Repository reader with React
 
 A simple page where you can add a repository and see links to issues (open/closed/all).
-[![My Skills](https://skillicons.dev/icons?i=js,react, html,css)](https://skillicons.dev)
 
 ## Features
 
